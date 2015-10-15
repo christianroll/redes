@@ -3,6 +3,11 @@
 Professor [Cesar Marcondes](https://github.com/cmarcond) - [DC UFSCar](http://www.dc.ufscar.br/)
 
 
+## Instruções
+
+Clone usando `git clone --recursive https://github.com/christianroll/redes.git`
+
+
 ## Alunos
 
 *   [Christian Rollmann (414514)](https://github.com/christianroll)
